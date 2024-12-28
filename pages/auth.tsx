@@ -1,4 +1,5 @@
-  import { Divide } from 'lucide-react';
+ 
+  import Input from '@/components/ui/input';
 import React from 'react'
   const Auth = () => {
 
@@ -15,7 +16,7 @@ import React from 'react'
                     Sign in 
                   </h2>
                   <div className='flex flex-col gap-4'>
-
+                         <input/> 
                   </div>
 
                 </div>
